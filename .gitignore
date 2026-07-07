@@ -9,3 +9,5 @@ src/liblammps*
 doc/
 bench/
 .DS_Store
+doc/
+bench/
