@@ -1,0 +1,11 @@
+.git/
+src/Obj_*/
+*.o
+*.a
+*.so
+*.d
+src/lmp*
+src/liblammps*
+doc/
+bench/
+.DS_Store
