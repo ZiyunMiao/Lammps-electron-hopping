@@ -4,7 +4,8 @@ src/Obj_*/
 *.a
 *.so
 *.d
-src/lmp*
+/src/lmp
+/src/lmp_*
 src/liblammps*
 doc/
 bench/
